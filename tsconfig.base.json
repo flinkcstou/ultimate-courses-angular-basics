@@ -15,7 +15,10 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@angular-basics/introduction": ["libs/introduction/src/index.ts"]
+      "@angular-basics/introduction": ["libs/introduction/src/index.ts"],
+      "@angular-basics/template-essentials": [
+        "libs/template-essentials/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
