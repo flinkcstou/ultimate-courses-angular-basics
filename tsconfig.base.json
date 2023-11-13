@@ -15,7 +15,13 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@angular-basics/component-architecture": [
+        "libs/component-architecture/src/index.ts"
+      ],
       "@angular-basics/introduction": ["libs/introduction/src/index.ts"],
+      "@angular-basics/styles-and-css-encapsulation": [
+        "libs/styles-and-css-encapsulation/src/index.ts"
+      ],
       "@angular-basics/template-essentials": [
         "libs/template-essentials/src/index.ts"
       ]
