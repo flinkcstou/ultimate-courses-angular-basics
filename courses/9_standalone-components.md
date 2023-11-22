@@ -1,0 +1,7 @@
+- расписать какие преимущества есть в standalone
+- в чем разница между standalone и NgModule
+- как делать lazy load standalone components
+- как загружать в routes standalone components
+- как реализовать appComponent как standalone
+- как динамический подгружать через programmatic standalone components
+- как указывать providers
